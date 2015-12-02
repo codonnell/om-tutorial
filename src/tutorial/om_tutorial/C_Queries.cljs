@@ -15,7 +15,7 @@
   # Queries
 
   First, please understand that *Om does not know how to read your data* on the client *or* the server.
-  Om provides a query syntax and a query parser, but you end up providing the \"data retrievale\" part
+  Om provides a query syntax and a query parser, but you end up providing the \"data retrieval\" part
   of the works.
 
   That said, let's understand the query syntax and semantics.
